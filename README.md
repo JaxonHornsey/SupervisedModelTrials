@@ -1,4 +1,4 @@
-# SupervisedModelTrials
+# Supervised Model Trials
 
 This repository stores the trials runs for each model.
 
